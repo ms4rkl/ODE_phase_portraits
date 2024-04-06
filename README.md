@@ -1,5 +1,5 @@
 # ODE Phase Portraits
-Provides a Python script for plotting **phase portraits** of *first order ordinary differential equations systems with constat coefficients*. In addition the figure contains visual representation of eigen values in imaginary space.
+Provides a Python script for plotting **phase portraits** of *first order ordinary differential equations systems with constant coefficients*. In addition the figure contains visual representation of eigen values in imaginary space.
 
 (Description of the statioinary points are given in czech language)
 
