@@ -12,11 +12,11 @@ Provides a Python script for plotting **phase portraits** of *first order ordina
 - Numerical computation (Collatz Method)
 
 ### Examples:
-<img src="/img/phase_portrait1.png" alt="phase-portrait" style="height: 360px;"/>
-<img src="/img/phase_portrait2.png" alt="phase-portrait" style="height: 360px;"/>
-<img src="/img/phase_portrait3.png" alt="phase-portrait" style="height: 360px;"/>
-<img src="/img/phase_portrait4.png" alt="phase-portrait" style="height: 360px;"/>
-<img src="/img/phase_portrait5.png" alt="phase-portrait" style="height: 360px;"/>
-<img src="/img/phase_portrait6.png" alt="phase-portrait" style="height: 360px;"/>
-<img src="/img/phase_portrait7.png" alt="phase-portrait" style="height: 360px;"/>
-<img src="/img/phase_portrait8.png" alt="phase-portrait" style="height: 360px;"/>
+<img src="/img/phase_portrait1.png" alt="phase-portrait" style="height: 0.9em;"/>
+<img src="/img/phase_portrait2.png" alt="phase-portrait" style="height: 0.9em;"/>
+<img src="/img/phase_portrait3.png" alt="phase-portrait" style="height: 0.9em;"/>
+<img src="/img/phase_portrait4.png" alt="phase-portrait" style="height: 0.9em;"/>
+<img src="/img/phase_portrait5.png" alt="phase-portrait" style="height: 0.9em;"/>
+<img src="/img/phase_portrait6.png" alt="phase-portrait" style="height: 0.9em;"/>
+<img src="/img/phase_portrait7.png" alt="phase-portrait" style="height: 0.9em;"/>
+<img src="/img/phase_portrait8.png" alt="phase-portrait" style="height: 0.9em;"/>
